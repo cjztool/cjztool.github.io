@@ -33,11 +33,11 @@
 
 body {
 	background: url(../images/mainbg.jpg) 0 top repeat-x #CAE6F9;
-	-webkit-animation: animate-cloud 40s linear infinite;
-	-moz-animation: animate-cloud 40s linear infinite;
-	-ms-animation: animate-cloud 40s linear infinite;
-	-o-animation: animate-cloud 40s linear infinite;
-	animation: animate-cloud 40s linear infinite;
+	-webkit-animation: animate-cloud 15s linear infinite;
+	-moz-animation: animate-cloud 15s linear infinite;
+	-ms-animation: animate-cloud 15s linear infinite;
+	-o-animation: animate-cloud 15s linear infinite;
+	animation: animate-cloud 15s linear infinite;
 	width: 100%;
 	height: auto;
 }
