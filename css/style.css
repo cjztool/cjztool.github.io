@@ -8,7 +8,7 @@
 }
 @-moz-keyframes animate-cloud {
 	from {
-		background-position: 600px 0;
+		background-position: 1600px 0;
 	}
 	to {
 		background-position: 0 0;
@@ -33,11 +33,11 @@
 
 body {
 	background: url(../images/mainbg.jpg) 0 top repeat-x #CAE6F9;
-	-webkit-animation: animate-cloud 20s linear infinite;
-	-moz-animation: animate-cloud 20s linear infinite;
-	-ms-animation: animate-cloud 20s linear infinite;
-	-o-animation: animate-cloud 20s linear infinite;
-	animation: animate-cloud 20s linear infinite;
+	-webkit-animation: animate-cloud 40s linear infinite;
+	-moz-animation: animate-cloud 40s linear infinite;
+	-ms-animation: animate-cloud 40s linear infinite;
+	-o-animation: animate-cloud 40s linear infinite;
+	animation: animate-cloud 40s linear infinite;
 	width: 100%;
 	height: auto;
 }
