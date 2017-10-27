@@ -24,3 +24,8 @@ body {
     padding-top: 180px;
 
 }
+.qr{
+    width: 70%;
+    height: 70%;
+    border: #ffffff solid 5px;
+}
