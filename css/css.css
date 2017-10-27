@@ -24,11 +24,13 @@ body {
     padding-top: 150px;
 
 }
- .download-tip{
-    font-size: 6px;
-     color: red;
+
+.download-tip {
+    font-size: 8px;
+    color: red;
 }
-.qr{
+
+.qr {
     width: 70%;
     height: 70%;
     border: #ffffff solid 5px;
