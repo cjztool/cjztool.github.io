@@ -21,8 +21,12 @@ body {
 
 .main {
 
-    padding-top: 180px;
+    padding-top: 150px;
 
+}
+ .download-tip{
+    font-size: 6px;
+     color: red;
 }
 .qr{
     width: 70%;
