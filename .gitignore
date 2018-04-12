@@ -1,0 +1,11 @@
+.gradle
+.project
+.idea/*
+.DS_Store
+/build
+
+
+
+
+
+
